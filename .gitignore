@@ -1,0 +1,15 @@
+venv/
+data/.DS_Store
+data/ProcessedDataCSV/ProcessedFraudData.csv_part-00000-0be4b7e2-d4f5-486a-b064-d30260c74cac-c000.csv
+data/ProcessedDataCSV/ProcessedFraudData.csv_part-00001-0be4b7e2-d4f5-486a-b064-d30260c74cac-c000.csv
+data/ProcessedDataCSV/ProcessedFraudData.csv_part-00002-0be4b7e2-d4f5-486a-b064-d30260c74cac-c000.csv
+data/ProcessedDataCSV/ProcessedFraudData.csv_part-00003-0be4b7e2-d4f5-486a-b064-d30260c74cac-c000.csv
+data/ProcessedDataCSV/ProcessedFraudData.csv_part-00004-0be4b7e2-d4f5-486a-b064-d30260c74cac-c000.csv
+data/ProcessedFraudData.parquet/ProcessedFraudData.parquet__SUCCESS
+data/ProcessedFraudData.parquet/ProcessedFraudData.parquet_part-00000-a3eacd88-826f-42a8-8414-6846e527fa95-c000.snappy.parquet
+data/ProcessedFraudData.parquet/ProcessedFraudData.parquet_part-00001-a3eacd88-826f-42a8-8414-6846e527fa95-c000.snappy.parquet
+data/ProcessedFraudData.parquet/ProcessedFraudData.parquet_part-00002-a3eacd88-826f-42a8-8414-6846e527fa95-c000.snappy.parquet
+data/ProcessedFraudData.parquet/ProcessedFraudData.parquet_part-00003-a3eacd88-826f-42a8-8414-6846e527fa95-c000.snappy.parquet
+data/ProcessedFraudData.parquet/ProcessedFraudData.parquet_part-00004-a3eacd88-826f-42a8-8414-6846e527fa95-c000.snappy.parquet
+data/Sample Data after preprocessing without Labels.csv
+data/SampleData_50rows_withLabel.csv
