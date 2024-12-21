@@ -1,5 +1,5 @@
 venv/
-data/.DS_Store
+.DS_Store
 data/ProcessedDataCSV/ProcessedFraudData.csv_part-00000-0be4b7e2-d4f5-486a-b064-d30260c74cac-c000.csv
 data/ProcessedDataCSV/ProcessedFraudData.csv_part-00001-0be4b7e2-d4f5-486a-b064-d30260c74cac-c000.csv
 data/ProcessedDataCSV/ProcessedFraudData.csv_part-00002-0be4b7e2-d4f5-486a-b064-d30260c74cac-c000.csv
